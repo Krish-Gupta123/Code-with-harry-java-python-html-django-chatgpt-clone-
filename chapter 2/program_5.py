@@ -1,0 +1,5 @@
+a= input("enter a = ")
+b= input("enter b =")
+a=float(a)
+b=float(b)
+print("average of a and b = ",(a+b)/2)
